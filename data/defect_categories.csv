@@ -1,0 +1,489 @@
+recall_number,defect_category,category_rationale
+D-0864-2026,Missing or illegible lot or expiry,"The IV bag and the drug inside carry different expiry dates, so the printed expiry is wrong."
+D-0865-2026,Foreign material found in packaging,"Particles including glass were found in the vials. Broken and leaking vials are also named, but particles are listed first."
+D-0803-2026,Foreign material found in packaging,"Glass and a piece of the rubber stopper were found in the product, both from packaging components."
+D-0764-2026,Not packaging (exclude),The solution itself changed color. Nothing points to the package.
+D-0765-2026,Not packaging (exclude),The solution itself changed color. Nothing points to the package.
+D-0788-2026,Label mix-up or wrong label,"The outer pack was labeled morphine but held a syringe of a different drug, so the label did not match the contents."
+D-0713-2026,Label mix-up or wrong label,"The label was applied so it covers the barcode, a label application defect."
+D-0618-2026,Not packaging (exclude),"The compounded bag was made without ingredients listed on the label. That is a formulation error, not a packaging error."
+D-0552-2026,Label mix-up or wrong label,"The label was applied so it covers the barcode, a label application defect."
+D-0524-2026,Not packaging (exclude),"The product was made without the insulin listed on the label. That is a formulation error, not a packaging error."
+D-0494-2026,Label mix-up or wrong label,Units shipped with no label at all.
+D-0495-2026,Seal or closure failure,"Fluid can leak from the diaphragm port, a closure point on the bag."
+D-0496-2026,Seal or closure failure,"Fluid can leak from the diaphragm port, a closure point on the bag."
+D-0479-2026,Label mix-up or wrong label,The whole label could not be read.
+D-0478-2026,Label mix-up or wrong label,"A pouch labeled as one drug held a bag of a different drug, so the outer label did not match the contents."
+D-0398-2026,Not packaging (exclude),Impurities grew above limits during stability testing. That is a product stability problem.
+D-0343-2026,Label mix-up or wrong label,The carton text gives a dosing statement that differs from the approved wording.
+D-0353-2026,Not packaging (exclude),"Cartons were stored at the wrong temperature. That is a storage problem, not a packaging defect."
+D-0244-2026,Foreign material found in packaging,A hair was found inside a prefilled syringe.
+D-0245-2026,Foreign material found in packaging,A hair was found inside a prefilled syringe.
+D-0228-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0229-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0230-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0231-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0232-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0233-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0234-2026,Container damage or leak,Glass cartridges arrived cracked or broken.
+D-0214-2026,Label mix-up or wrong label,The wrong RFID tag labels were put on the product.
+D-0180-2026,Label mix-up or wrong label,The overwrap label may show the wrong strength.
+D-0181-2026,Label mix-up or wrong label,The overwrap label may show the wrong strength.
+D-0143-2026,Container damage or leak,"The flexible bag may leak, and no specific seal or port is named."
+D-0023-2026,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0024-2026,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0025-2026,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0652-2025,Seal or closure failure,"Fluid can leak from a misaligned port, a closure point on the bag."
+D-0597-2025,Label mix-up or wrong label,"Bags labeled as one strength held a different strength, so the label did not match the contents."
+D-0585-2025,Seal or closure failure,"Fluid can leak at weld sites, which are the heat sealed joints of the bag."
+D-0586-2025,Seal or closure failure,"Fluid can leak at weld sites, which are the heat sealed joints of the bag."
+D-0571-2025,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0572-2025,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0573-2025,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0517-2025,Missing or illegible lot or expiry,A printing problem put the wrong lot numbers on the label.
+D-0569-2025,Label mix-up or wrong label,"Cefazolin cartons held vials labeled as penicillin, so labels and contents did not match."
+D-0570-2025,Label mix-up or wrong label,Cefazolin vials were labeled as penicillin.
+D-0489-2025,Container damage or leak,"The solution discolored because the vials were cracked, so the root cause is container damage."
+D-0491-2025,Container damage or leak,Pinholes formed in the container during form fill seal molding and caused leaks.
+D-0392-2025,Missing or illegible lot or expiry,"The outer box shows the wrong beyond use date, which works like an expiry date."
+D-0393-2025,Not packaging (exclude),Product sat outside refrigeration during shipping. That is a cold chain problem.
+D-0398-2025,Seal or closure failure,"Product leaks around the vial neck, where the stopper and crimp seal the vial."
+D-0399-2025,Seal or closure failure,"Product leaks around the vial neck, where the stopper and crimp seal the vial."
+D-0400-2025,Not packaging (exclude),Storms delayed cold chain shipments. That is a shipping and storage problem.
+D-0401-2025,Not packaging (exclude),Storms delayed cold chain shipments. That is a shipping and storage problem.
+D-0370-2025,Container damage or leak,"Syringes arrived leaking or damaged, and no specific seal is named."
+D-0371-2025,Container damage or leak,"Syringes arrived leaking or damaged, and no specific seal is named."
+D-0372-2025,Container damage or leak,"Syringes arrived leaking or damaged, and no specific seal is named."
+D-0373-2025,Container damage or leak,"Syringes arrived leaking or damaged, and no specific seal is named."
+D-0374-2025,Container damage or leak,"Syringes arrived leaking or damaged, and no specific seal is named."
+D-0363-2025,Not packaging (exclude),Crystals would not dissolve in the solution. That is a product problem.
+D-0365-2025,Label mix-up or wrong label,"The bag label shows the wrong strength, while the overwrap is correct, so the two labels disagree."
+D-0285-2025,Not packaging (exclude),Stability data does not support the shelf life. That is a product stability problem.
+D-0286-2025,Not packaging (exclude),Stability data does not support the shelf life. That is a product stability problem.
+D-0257-2025,Seal or closure failure,"Fluid can leak at the bottle port, a closure point."
+D-0267-2025,Label mix-up or wrong label,The overwrap may show the wrong strength compared with the bag inside.
+D-0268-2025,Label mix-up or wrong label,The overwrap may show the wrong strength compared with the bag inside.
+D-0250-2025,Container damage or leak,"Syringes leaked after the liquid was repackaged into them, and no specific seal is named."
+D-0251-2025,Container damage or leak,"Syringes leaked after the liquid was repackaged into them, and no specific seal is named."
+D-0252-2025,Container damage or leak,"Syringes leaked after the liquid was repackaged into them, and no specific seal is named."
+D-0253-2025,Container damage or leak,"Syringes leaked after the liquid was repackaged into them, and no specific seal is named."
+D-0254-2025,Container damage or leak,"Syringes leaked after the liquid was repackaged into them, and no specific seal is named."
+D-0223-2025,Label mix-up or wrong label,"The label looks misleadingly like an approved brand product, a label content problem."
+D-0186-2025,Foreign material found in packaging,A piece of glass was found in the vial.
+D-0173-2025,Seal or closure failure,The tamper evident seals on syringes were not attached.
+D-0164-2025,Seal or closure failure,"Crimps on the vials were not formed correctly, so the closure may not hold."
+D-0113-2025,Other packaging,"The wrong type of syringe was packed in the kit, a wrong component."
+D-0080-2025,Foreign material found in packaging,Glass flakes may come off the inside of the vial wall (delamination) into the drug.
+D-0081-2025,Foreign material found in packaging,Glass flakes may come off the inside of the vial wall (delamination) into the drug.
+D-0082-2025,Foreign material found in packaging,Glass flakes may come off the inside of the vial wall (delamination) into the drug.
+D-0039-2025,Label mix-up or wrong label,Units shipped with no label at all.
+D-0635-2024,Label mix-up or wrong label,A bag of one drug was inside an overwrap labeled as another drug.
+D-0624-2024,Foreign material found in packaging,A glass particle was found in the vial.
+D-0618-2024,Label mix-up or wrong label,Bottles of one product were labeled as a different product.
+D-0608-2024,Seal or closure failure,"A tube weld, which is a sealed joint, failed and caused a slow leak."
+D-0587-2024,Seal or closure failure,"Leaks can start at the connector assembly, a closure and connection point."
+D-0564-2024,Seal or closure failure,Crimp seals may be incomplete.
+D-0565-2024,Seal or closure failure,Crimp seals may be incomplete.
+D-0553-2024,Foreign material found in packaging,Particles from the rubber stopper got into the drug.
+D-0554-2024,Foreign material found in packaging,Particles from the rubber stopper got into the drug.
+D-0544-2024,Missing or illegible lot or expiry,The carton shows the wrong expiration date compared with the bottle label.
+D-0509-2024,Seal or closure failure,"Stoppers were deformed, so the vial closure may not seal."
+D-0510-2024,Container damage or leak,"Vials leaked, and no specific seal is named."
+D-0511-2024,Label mix-up or wrong label,Product labeled as one drug actually contained a different drug.
+D-0531-2024,Container damage or leak,Syringes broke.
+D-0508-2024,Label mix-up or wrong label,Ephedrine syringes were labeled as phenylephrine.
+D-0479-2024,Container damage or leak,Syringes broke.
+D-0480-2024,Label mix-up or wrong label,The barcode on the label is wrong.
+D-0471-2024,Wrong count or missing units,"Units were short filled, with less liquid than stated."
+D-0431-2024,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0432-2024,Container damage or leak,"Bags leaked, and no specific seal is named."
+D-0433-2024,Package insert error,The package insert gives the wrong concentration in the preparation section.
+D-0434-2024,Package insert error,The package insert gives the wrong concentration in the preparation section.
+D-0392-2024,Missing or illegible lot or expiry,"A filter packed in the carton expires before the product does, so the kit expiry date is wrong."
+D-0370-2024,Container damage or leak,"Pinholes in the bag wall, where the label was printed, caused leaks."
+D-0371-2024,Not packaging (exclude),Product was stored outside its labeled storage conditions. That is a storage problem.
+D-0372-2024,Not packaging (exclude),Product was stored outside its labeled storage conditions. That is a storage problem.
+D-0373-2024,Not packaging (exclude),Product was stored outside its labeled storage conditions. That is a storage problem.
+D-0361-2024,Foreign material found in packaging,"Glass vials showed delamination, which sheds glass flakes into the drug."
+D-0362-2024,Foreign material found in packaging,"Glass vials showed delamination, which sheds glass flakes into the drug."
+D-0363-2024,Foreign material found in packaging,"Glass vials showed delamination, which sheds glass flakes into the drug."
+D-0336-2024,Label mix-up or wrong label,The overwrap label shows the wrong strength compared with the bag label.
+D-0342-2024,Missing or illegible lot or expiry,The expiration date on the repack pouch label is wrong.
+D-0325-2024,Not packaging (exclude),The drug loses potency before its expiry. That is a stability problem.
+D-0161-2024,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0179-2024,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0140-2024,Not packaging (exclude),"Described as an incorrect product formulation, which is a manufacturing error, not a packaging error."
+D-0147-2024,Container damage or leak,"A supplier released IV bags that had failed leak tests, and the bags leaked."
+D-0048-2024,Not packaging (exclude),Temperature exposed product was released by mistake. That is a storage and release problem.
+D-0041-2024,Foreign material found in packaging,A large piece of glass was found inside a vial.
+D-1148-2023,Container damage or leak,"Small cracks in vials let the powder discolor, so the root cause is container damage."
+D-1140-2023,Seal or closure failure,"Leaks can start at the Luer connector, a closure and connection point."
+D-1141-2023,Seal or closure failure,"Leaks can start at the Luer connector, a closure and connection point."
+D-1103-2023,Label mix-up or wrong label,Labels peeled partly or fully off the vials.
+D-1085-2023,Missing or illegible lot or expiry,Vials were labeled with the wrong lot number and expiration date.
+D-1083-2023,Label mix-up or wrong label,"Warnings, storage text, and directions on the label are missing or partly printed."
+D-0916-2023,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0865-2023,Label mix-up or wrong label,A preservative free product was labeled as preserved.
+D-0870-2023,Label mix-up or wrong label,FDA filed this as a label mix-up.
+D-0777-2023,Container damage or leak,Cold exposure may cause leaks in the packaging. The defect that reaches the patient is a leak.
+D-0756-2023,Label mix-up or wrong label,The folding cartons have a typo in the NDC number.
+D-0575-2023,Seal or closure failure,The crimped collar seal was malformed.
+D-0540-2023,Not packaging (exclude),A held lot was put into saleable stock by mistake. That is a warehouse release error.
+D-0542-2023,Seal or closure failure,"Leaks can start at the Luer connector, a closure and connection point."
+D-0543-2023,Seal or closure failure,"Leaks can start at the Luer connector, a closure and connection point."
+D-0569-2023,Foreign material found in packaging,A piece of glass was found in a prefilled syringe.
+D-0531-2023,Missing or illegible lot or expiry,The lot code on the primary package is wrong.
+D-0535-2023,Label mix-up or wrong label,The outer carton shows the wrong NDC number.
+D-0489-2023,Not packaging (exclude),Crystals would not dissolve in the solution. That is a product problem.
+D-0435-2023,Label mix-up or wrong label,"FDA filed this under labeling with no detail, so it goes in the general label error group."
+D-0346-2023,Seal or closure failure,An incomplete seal near the port may cause leaks.
+D-0347-2023,Seal or closure failure,An incomplete seal near the port may cause leaks.
+D-0266-2023,Foreign material found in packaging,Foreign substances were found in vials.
+D-0267-2023,Foreign material found in packaging,Foreign substances were found in vials.
+D-0172-2023,Wrong count or missing units,Units were underfilled.
+D-0175-2023,Wrong count or missing units,"FDA filed this as a short fill, meaning less product than stated."
+D-0176-2023,Wrong count or missing units,"FDA filed this as a short fill, meaning less product than stated."
+D-0131-2023,Label mix-up or wrong label,"Cartons labeled 350 mg held 500 mg vials, so labels and contents did not match."
+D-0095-2023,Foreign material found in packaging,Dark particles were found inside the vial.
+D-0097-2023,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0090-2023,Label mix-up or wrong label,A vial labeled as one drug was found in a carton of a different drug.
+D-0078-2023,Wrong count or missing units,Units were underfilled.
+D-0079-2023,Container damage or leak,Vials broke and glass flew when pressurized during preparation.
+D-0080-2023,Container damage or leak,Vials broke and glass flew when pressurized during preparation.
+D-0086-2023,Label mix-up or wrong label,Syringes labeled with one strength held a different strength.
+D-0075-2023,Container damage or leak,"Saline bags leaked, and no specific seal is named."
+D-0076-2023,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0069-2023,Label mix-up or wrong label,The vial label was missing its barcode.
+D-0070-2023,Label mix-up or wrong label,The vial label was missing its barcode.
+D-0062-2023,Container damage or leak,"Flexible bags may leak, and no specific seal is named."
+D-0058-2023,Foreign material found in packaging,Glass particles were found in a syringe.
+D-0022-2023,Container damage or leak,Vials broke and glass flew when pressurized during preparation.
+D-0023-2023,Container damage or leak,Vials broke and glass flew when pressurized during preparation.
+D-0013-2023,Foreign material found in packaging,Colored particles were found floating inside the vial.
+D-0015-2023,Container damage or leak,"Saline bags leaked, and no specific seal is named."
+D-0003-2023,Foreign material found in packaging,A hair was found in a vial.
+D-1551-2022,Foreign material found in packaging,A piece of metal was found in a vial.
+D-1542-2022,Foreign material found in packaging,A hair was found in a vial.
+D-1335-2022,Other packaging,"The wrong type of syringe was packed in the kit, a wrong component."
+D-1348-2022,Not packaging (exclude),"Pallet stickers said refrigerate for a room temperature product. The risk is a shipping temperature problem, not the product package."
+D-1324-2022,Not packaging (exclude),Product was stored outside its labeled storage conditions. That is a storage problem.
+D-1325-2022,Not packaging (exclude),Product was stored outside its labeled storage conditions. That is a storage problem.
+D-1292-2022,Label mix-up or wrong label,Some prefilled pens had no label.
+D-1190-2022,Container damage or leak,"Very short reason. Read as liquid leaking from the vial, with no specific seal named."
+D-0882-2022,Not packaging (exclude),Weather exposed product to temperatures outside its storage range. That is a storage problem.
+D-0883-2022,Not packaging (exclude),Weather exposed product to temperatures outside its storage range. That is a storage problem.
+D-0884-2022,Not packaging (exclude),Product was exposed to temperatures outside its storage range. That is a storage problem.
+D-0855-2022,Seal or closure failure,A loose crimp may break the closure seal.
+D-0845-2022,Label mix-up or wrong label,The vial had no label.
+D-0745-2022,Label mix-up or wrong label,The barcode identifies the product as a different drug.
+D-0747-2022,Not packaging (exclude),Low assay result during stability testing. That is a product potency problem.
+D-0706-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0707-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0708-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0709-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0710-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0711-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0712-2022,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0655-2022,Container damage or leak,"Bags leaked, and no specific seal is named."
+D-0633-2022,Label mix-up or wrong label,Hydromorphone syringes were labeled as morphine.
+D-0634-2022,Label mix-up or wrong label,Hydromorphone syringes were labeled as morphine.
+D-0556-2022,Foreign material found in packaging,A hair was found in a vial.
+D-0462-2022,Label mix-up or wrong label,Some prefilled pens had no label.
+D-0288-2022,Label mix-up or wrong label,Vials labeled as one strength may hold a different strength.
+D-0265-2022,Container damage or leak,"The bag may leak, and no specific seal is named."
+D-0019-2022,Label mix-up or wrong label,The required paralyzing agent warning was left off the vial cap.
+D-0009-2022,Not packaging (exclude),The vial held liquid instead of the expected powder. That is a manufacturing problem with the drug.
+D-0856-2021,Container damage or leak,Vials were cracked.
+D-0756-2021,Package insert error,The package insert is missing required sections.
+D-0757-2021,Package insert error,The package insert is missing required sections.
+D-0771-2021,Label mix-up or wrong label,FDA filed this as mislabeling with no detail.
+D-0773-2021,Label mix-up or wrong label,Autoinjectors labeled as one strength held double the strength.
+D-0661-2021,Foreign material found in packaging,"Glass, silicone, and fiber particles were found inside the vial."
+D-0648-2021,Missing or illegible lot or expiry,"The beyond use date, which works like an expiry date, is wrong."
+D-0601-2021,Missing or illegible lot or expiry,Vials carry the wrong lot number while the carton is correct.
+D-0626-2021,Label mix-up or wrong label,Bupivacaine and lidocaine vials may have each other's labels.
+D-0627-2021,Label mix-up or wrong label,Bupivacaine and lidocaine vials may have each other's labels.
+D-0384-2021,Foreign material found in packaging,An insect was found in a vial.
+D-0335-2021,Seal or closure failure,Liquid can move past the plunger seal of the syringe.
+D-0305-2021,Seal or closure failure,Crimped vial overseals were loose.
+D-0306-2021,Label mix-up or wrong label,The label lists room temperature storage when the product must be refrigerated. The root cause is wrong label text.
+D-0307-2021,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0297-2021,Foreign material found in packaging,A brown residue was stuck to the inside of a vial.
+D-0286-2021,Label mix-up or wrong label,Vials in a cisatracurium carton were labeled as phenylephrine.
+D-0250-2021,Label mix-up or wrong label,2 mL vials were packed into blister strips labeled for 1 mL vials.
+D-0261-2021,Label mix-up or wrong label,Syringe barrels carry dose markings for the wrong strength.
+D-0262-2021,Label mix-up or wrong label,Syringe barrels carry dose markings for the wrong strength.
+D-0242-2021,Missing or illegible lot or expiry,The lot number on the secondary package is wrong.
+D-0245-2021,Foreign material found in packaging,Particles were found in retained sample vials.
+D-0223-2021,Missing or illegible lot or expiry,The lot number and beyond use date were printed in the wrong spot and could not be read.
+D-0186-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0187-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0188-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0189-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0190-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0191-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0192-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0193-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0194-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0195-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0196-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0197-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0198-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0199-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0200-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0201-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0202-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0203-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0204-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0205-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0206-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0207-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0208-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0209-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0210-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0211-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0212-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0213-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0214-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0215-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0216-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0217-2021,Seal or closure failure,"Syringe caps may be defective, so the unit is not sealed."
+D-0175-2021,Label mix-up or wrong label,Units shipped with no label.
+D-0177-2021,Seal or closure failure,Vials had faulty crimps.
+D-0184-2021,Foreign material found in packaging,Particles were found in retained sample vials.
+D-0165-2021,Seal or closure failure,Vials may not be sealed correctly.
+D-0169-2021,Not packaging (exclude),pH test results were out of specification. That is a product chemistry problem.
+D-0127-2021,Label mix-up or wrong label,FDA filed this as a label mix-up.
+D-0101-2021,Not packaging (exclude),pH test results were out of specification. That is a product chemistry problem.
+D-1585-2020,Wrong count or missing units,"FDA filed this as a short fill, meaning less product than stated."
+D-1575-2020,Label mix-up or wrong label,Tranexamic acid and amiodarone vials may be in each other's cartons.
+D-1576-2020,Label mix-up or wrong label,Tranexamic acid and amiodarone vials may be in each other's cartons.
+D-1550-2020,Not packaging (exclude),"The product was made with a different preservative than the label lists. The formula was wrong, not the label."
+D-1551-2020,Not packaging (exclude),"The product was made with a different preservative than the label lists. The formula was wrong, not the label."
+D-1552-2020,Not packaging (exclude),"The product was made with a different preservative than the label lists. The formula was wrong, not the label."
+D-1553-2020,Not packaging (exclude),"The product was made with a different preservative than the label lists. The formula was wrong, not the label."
+D-1446-2020,Seal or closure failure,Metal overseal crimps may be loose.
+D-1391-2020,Label mix-up or wrong label,"The carton label lists the wrong amount of an inactive ingredient. The insert has the same error, but the carton is named first."
+D-1379-2020,Seal or closure failure,Rubber stoppers were missing from vials.
+D-1335-2020,Not packaging (exclude),"The particles came from a supplier's ketorolac ingredient vials, not from this product's package."
+D-1308-2020,Seal or closure failure,The crimp failed when the flip cap was removed.
+D-1309-2020,Seal or closure failure,The crimp failed when the flip cap was removed.
+D-1296-2020,Foreign material found in packaging,Particles were found in retained sample vials.
+D-1297-2020,Foreign material found in packaging,Particles were found in retained sample vials.
+D-1259-2020,Seal or closure failure,The vial crimp was not tight enough.
+D-1260-2020,Other packaging,"A shared device component failed its trigger force test, a component qualification issue."
+D-1094-2020,Container damage or leak,Glass ampules broke and shattered when opened.
+D-0995-2020,Seal or closure failure,Metal crimps were loose and the whole cap lifted off.
+D-0835-2020,Seal or closure failure,Metal overseal crimps were loose.
+D-0821-2020,Foreign material found in packaging,Particles were seen in vials.
+D-0799-2020,Seal or closure failure,The aluminum cap crimp on a kit vial was loose.
+D-0801-2020,Label mix-up or wrong label,The vial label gives the wrong reconstitution volume.
+D-0802-2020,Foreign material found in packaging,Cloudy particles were seen in the vial.
+D-0574-2020,Not packaging (exclude),The product changed color after mixing. That is a product problem.
+D-0577-2020,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0620-2020,Foreign material found in packaging,Foreign material was found inside the vial.
+D-0609-2020,Not packaging (exclude),"The solution was hazy instead of clear. That is a product appearance problem, not a foreign object."
+D-0573-2020,Foreign material found in packaging,Foreign material was found inside the vial.
+D-0519-2020,Package insert error,The wrong version of the package insert was attached.
+D-0154-2020,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0167-2020,Label mix-up or wrong label,A shipper carton labeled for single dose vials held cartons labeled for multi dose vials.
+D-0150-2020,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0144-2020,Label mix-up or wrong label,The label claims a non corn source but the product comes from corn.
+D-0136-2020,Container damage or leak,"The bag may leak, and no specific seal is named."
+D-0137-2020,Label mix-up or wrong label,"The RFID tag was encoded wrong, so the injector reads the syringe as expired."
+D-0138-2020,Label mix-up or wrong label,"The RFID tag was encoded wrong, so the injector reads the syringe as expired."
+D-0119-2020,Label mix-up or wrong label,1 inch needles were packed in sleeves labeled for 1.5 inch needles.
+D-0035-2020,Foreign material found in packaging,Rubber stopper particles may clog the needle.
+D-0036-2020,Foreign material found in packaging,Rubber stopper particles may clog the needle.
+D-0037-2020,Foreign material found in packaging,Rubber stopper particles may clog the needle.
+D-0038-2020,Foreign material found in packaging,Rubber stopper particles may clog the needle.
+D-1876-2019,Not packaging (exclude),Product was stored and shipped outside its storage range. That is a storage problem.
+D-1840-2019,Wrong count or missing units,The vial was filled to 94 mL instead of at least 100 mL. An impurity failure is also listed second.
+D-1846-2019,Label mix-up or wrong label,1 inch needles were packed in sleeves labeled for 1.5 inch needles.
+D-1514-2019,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-1486-2019,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-1487-2019,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-1293-2019,Foreign material found in packaging,A glass fragment was found in a vial.
+D-1084-2019,Label mix-up or wrong label,The side carton panel shows the wrong concentration.
+D-1248-2019,Foreign material found in packaging,A hair was found in a vial.
+D-1001-2019,Seal or closure failure,Seal and cap problems on the vial may break sterility.
+D-0496-2019,Missing or illegible lot or expiry,The expiration date is wrong.
+D-0497-2019,Not packaging (exclude),The drug is stronger than the label says because of how it was made. That is a potency problem.
+D-0498-2019,Not packaging (exclude),The drug is stronger than the label says because of how it was made. That is a potency problem.
+D-0499-2019,Not packaging (exclude),The drug is stronger than the label says because of how it was made. That is a potency problem.
+D-0482-2019,Missing or illegible lot or expiry,Labels printed placeholder text instead of the real lot and expiry.
+D-0485-2019,Label mix-up or wrong label,"Text printed on the bag shows the wrong strength, while the foil pouch is correct."
+D-0997-2019,Missing or illegible lot or expiry,The expiry date coded in the 2D barcode does not match the printed expiry.
+D-0384-2019,Package insert error,The instructions for use in the kit recommend an unapproved child dose. Wrong syringe markings are listed second.
+D-0386-2019,Package insert error,The instructions for use in the kit recommend an unapproved child dose. Wrong syringe markings are listed second.
+D-0430-2019,Label mix-up or wrong label,The label states the concentration in the wrong units.
+D-0379-2019,Missing or illegible lot or expiry,The kit label shows the wrong expiration year.
+D-0351-2019,Container damage or leak,"The tubing leaks, and no specific seal is named."
+D-0355-2019,Foreign material found in packaging,Shredded rubber from the stopper was found in the vials.
+D-0356-2019,Foreign material found in packaging,Shredded rubber from the stopper was found in the vials.
+D-0357-2019,Foreign material found in packaging,Shredded rubber from the stopper was found in the vials.
+D-0358-2019,Foreign material found in packaging,Shredded rubber from the stopper was found in the vials.
+D-0347-2019,Label mix-up or wrong label,The label shows a concentration ten times too low.
+D-0319-2019,Container damage or leak,A defect in the glass vial may affect the closure and shed glass.
+D-0353-2019,Package insert error,The package insert wrongly says the stoppers have no latex.
+D-0354-2019,Package insert error,The package insert wrongly says the stoppers have no latex.
+D-0298-2019,Package insert error,"The package insert wrongly says the stoppers have no latex. The tray and vial labels repeat the error, but the insert is named first."
+D-0299-2019,Package insert error,"The package insert wrongly says the stoppers have no latex. The tray and vial labels repeat the error, but the insert is named first."
+D-0248-2019,Label mix-up or wrong label,The vial may have no label.
+D-0215-2019,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0216-2019,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0223-2019,Missing or illegible lot or expiry,The vial shows a 1 year expiry instead of 6 months.
+D-0095-2019,Container damage or leak,"The container lost its integrity, and no specific seal is named."
+D-0015-2019,Label mix-up or wrong label,"A unit of heparin was found in a case labeled as magnesium sulfate, so the case label did not match what was inside."
+D-0005-2019,Seal or closure failure,Metal crimps were loose and the whole cap lifted off.
+D-0017-2019,Label mix-up or wrong label,"Kit cartons have a misspelled name, missing storage text, and may list the wrong contents."
+D-0018-2019,Label mix-up or wrong label,"Kit cartons have a misspelled name, missing storage text, and may list the wrong contents."
+D-0977-2018,Foreign material found in packaging,Foreign compounds were found in vials.
+D-0930-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0933-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0935-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0943-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0945-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0949-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0954-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0955-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0957-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0959-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0963-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0964-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0918-2018,Not packaging (exclude),Stability data does not support the assigned shelf life. That is a product stability problem.
+D-0919-2018,Wrong count or missing units,"Syringes held 19 mL while the label said 20 mL, a short fill."
+D-0892-2018,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0893-2018,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0894-2018,Container damage or leak,"Admixture bags may leak, and no specific seal is named."
+D-0910-2018,Label mix-up or wrong label,5 mL syringes may be labeled as 3 mL syringes.
+D-0911-2018,Label mix-up or wrong label,5 mL syringes may be labeled as 3 mL syringes.
+D-0889-2018,Not packaging (exclude),The drug is weaker than the label says because of how it was made. That is a potency problem.
+D-0881-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0882-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0883-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0884-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0885-2018,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0906-2018,Foreign material found in packaging,Particles may be on the syringe plunger.
+D-0703-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0704-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0705-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0706-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0707-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0708-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0709-2018,Container damage or leak,Bags leaked and mold grew between the bag and the overwrap.
+D-0804-2018,Not packaging (exclude),Vials were over concentrated. That is a formulation problem.
+D-0699-2018,Seal or closure failure,The syringe and its tamper evident closure interact in a way that can let microbes in.
+D-0700-2018,Seal or closure failure,The syringe and its tamper evident closure interact in a way that can let microbes in.
+D-0701-2018,Seal or closure failure,The syringe and its tamper evident closure interact in a way that can let microbes in.
+D-0702-2018,Seal or closure failure,The syringe and its tamper evident closure interact in a way that can let microbes in.
+D-0696-2018,Label mix-up or wrong label,"A 50 mL bag was found in a package of 100 mL bags, so the package did not match what was inside."
+D-0604-2018,Container damage or leak,"The dialysis solution bag leaked, and no specific seal is named."
+D-0607-2018,Label mix-up or wrong label,An auxiliary label listed ingredients for a different product.
+D-0596-2018,Container damage or leak,Glass vials were cracked. The empty vials most likely lost their contents through the cracks.
+D-0597-2018,Container damage or leak,Glass vials were cracked. The empty vials most likely lost their contents through the cracks.
+D-0576-2018,Container damage or leak,The glass rim of the vial was cracked under the stopper and crimp.
+D-0603-2018,Missing or illegible lot or expiry,Labels show the wrong compounding and use by dates.
+D-0339-2018,Foreign material found in packaging,Glass particles were found in a vial.
+D-0340-2018,Foreign material found in packaging,A piece of glass was found in a vial.
+D-0425-2018,Seal or closure failure,Vial crimps were loose.
+D-0548-2018,Label mix-up or wrong label,FDA filed this as a label error on declared strength.
+D-0573-2018,Foreign material found in packaging,Plastic particles from the bag film and ports got into the drug.
+D-0153-2018,Label mix-up or wrong label,A syringe of one strength was packed in a blister labeled for another strength.
+D-0156-2018,Missing or illegible lot or expiry,The label was missing the lot number and beyond use date.
+D-0174-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0175-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0176-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0177-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0178-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0180-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0181-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0184-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0185-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0189-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0190-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0191-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0195-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0196-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0197-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0198-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0199-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0200-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0203-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0204-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0205-2018,Missing or illegible lot or expiry,"The beyond use date on the label is later than the expiry of an ingredient, so the date is wrong."
+D-0213-2018,Seal or closure failure,The aluminum seal or stopper comes off when the flip cap is removed.
+D-0152-2018,Label mix-up or wrong label,Blister packs labeled as midazolam held ondansetron syringes.
+D-0130-2018,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0131-2018,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0132-2018,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0113-2018,Not packaging (exclude),Assay is below specification. That is a potency problem.
+D-0114-2018,Not packaging (exclude),Assay is below specification. That is a potency problem.
+D-0115-2018,Not packaging (exclude),Assay is below specification. That is a potency problem.
+D-0116-2018,Other packaging,"There is no stability data to support the container system that was used, a container qualification gap."
+D-0117-2018,Other packaging,"There is no stability data to support the container system that was used, a container qualification gap."
+D-0118-2018,Other packaging,"There is no stability data to support the container system that was used, a container qualification gap."
+D-0119-2018,Other packaging,"There is no stability data to support the container system that was used, a container qualification gap."
+D-0123-2018,Foreign material found in packaging,Glass particles were found in a vial.
+D-0129-2018,Missing or illegible lot or expiry,"The label shows a beyond use date longer than the stability data supports, so the printed date is wrong."
+D-0075-2018,Package insert error,FDA filed this as an incorrect or missing package insert.
+D-0071-2018,Missing or illegible lot or expiry,The outer poly bag shows the wrong expiration date.
+D-0056-2018,Package insert error,The generic product was packed with the brand product's insert.
+D-0030-2018,Not packaging (exclude),Product froze during transit. That is a shipping temperature problem.
+D-1176-2017,Not packaging (exclude),"The particles are drug crystals from a supplier ingredient, not packaging material."
+D-1177-2017,Container damage or leak,The glass at the vial neck was cracked or chipped.
+D-1179-2017,Label mix-up or wrong label,Some vials in the shrink wrap pack had no label.
+D-1175-2017,Container damage or leak,The glass at the vial neck was cracked or chipped.
+D-1130-2017,Not packaging (exclude),"A supplier mislabeled a raw material, so the wrong grade went into the drug. The product package was not at fault."
+D-1126-2017,Container damage or leak,"Liquid leaked from the container, and no specific seal is named."
+D-1086-2017,Foreign material found in packaging,Glass flakes from the vial wall were found in the drug.
+D-1008-2017,Container damage or leak,"Product may leak, and no specific seal is named."
+D-1010-2017,Container damage or leak,"Product may leak, and no specific seal is named."
+D-1012-2017,Container damage or leak,"Product may leak, and no specific seal is named."
+D-1017-2017,Container damage or leak,"Product may leak, and no specific seal is named."
+D-1018-2017,Container damage or leak,"Product may leak, and no specific seal is named."
+D-0957-2017,Container damage or leak,"Bags leaked, and no specific seal is named."
+D-0972-2017,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0973-2017,Container damage or leak,"Bags may leak, and no specific seal is named."
+D-0930-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0931-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0932-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0933-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0934-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0935-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0936-2017,Missing or illegible lot or expiry,FDA filed this as an incorrect or missing lot number or expiration date.
+D-0924-2017,Seal or closure failure,"The metal closure sticks to the rubber stopper, which can break the closure seal."
+D-0898-2017,Foreign material found in packaging,A stopper from another product was found during packaging.
+D-0914-2017,Label mix-up or wrong label,The wrong volume is printed on the label.
+D-0915-2017,Label mix-up or wrong label,The wrong volume is printed on the label.
+D-0916-2017,Label mix-up or wrong label,The wrong volume is printed on the label.
+D-0870-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0871-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0872-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0873-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0874-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0875-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0876-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0877-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0878-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0879-2017,Seal or closure failure,"Bags leak at the seam, which is the heat sealed edge."
+D-0798-2017,Label mix-up or wrong label,The labeling does not declare latex that may be present.
+D-0799-2017,Label mix-up or wrong label,The labeling does not declare latex that may be present.
+D-0800-2017,Label mix-up or wrong label,The labeling does not declare latex that may be present.
+D-0801-2017,Label mix-up or wrong label,The labeling does not declare latex that may be present.
+D-0862-2017,Foreign material found in packaging,A hair was found in a syringe.
+D-0788-2017,Container damage or leak,"Customers reported leaks, and no specific seal is named."
+D-0789-2017,Container damage or leak,"Customers reported leaks, and no specific seal is named."
+D-0698-2017,Not packaging (exclude),"The particles are crystals of the drug itself, not packaging material."
+D-0704-2017,Package insert error,FDA filed this as an incorrect or missing package insert.
+D-0668-2017,Not packaging (exclude),Product was refrigerated when it should be at room temperature. That is a storage problem.
+D-0638-2017,Foreign material found in packaging,A hair was stuck to the stopper inside a vial.
+D-0613-2017,Container damage or leak,"The primary container may leak, and no specific seal is named."
+D-0614-2017,Container damage or leak,"The primary container may leak, and no specific seal is named."
+D-0615-2017,Container damage or leak,"The primary container may leak, and no specific seal is named."
+D-0616-2017,Container damage or leak,"The primary container may leak, and no specific seal is named."
+D-0603-2017,Label mix-up or wrong label,The outer packaging shows the wrong strength.
+D-0512-2017,Container damage or leak,"FDA filed this as a defective container with no detail, so it goes in the general container damage group."
+D-0480-2017,Container damage or leak,"A bag leaked, and no specific seal is named."
+D-0470-2017,Not packaging (exclude),The powder changed color. That is a product problem.
+D-0427-2017,Label mix-up or wrong label,The product description shows the wrong strength while the main panel is correct.
